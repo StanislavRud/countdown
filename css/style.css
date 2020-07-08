@@ -1,0 +1,26 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box; }
+
+body .main_content {
+  position: absolute;
+  top: 50%;
+  left: 35%;
+  text-align: center; }
+  body .main_content h1 {
+    color: red; }
+  body .main_content h1.active {
+    color: black; }
+  body .main_content .otschet {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 40px;
+    border: 2px solid;
+    margin-bottom: 100px; }
+    body .main_content .otschet p {
+      font-size: 30px;
+      margin-left: 10px; }
+
+/*# sourceMappingURL=style.css.map */
